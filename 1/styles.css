@@ -1,0 +1,151 @@
+body {
+    background-color: #121212;
+    font-family: Poppins;
+    margin-top: 0;
+    background: linear-gradient(#121212,#112)
+}
+
+.title {
+    text-shadow: 0px 0px 54px #eee4;
+}
+
+
+h1 {
+    text-align: center;
+    color: #09d;
+    margin: 0;
+    margin-top: 50px;
+    font-size: 80px;
+}
+
+h2 {
+    text-align: center;
+    color: #09e;
+    font-size: 33px;
+}
+
+
+.khea_image {
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-right: 0;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 34px #eee3;
+}
+
+.link_khea {
+    float: right;
+    text-align: left;
+    text-decoration: none;
+    color: #eee;
+    margin-left: 0px;
+    font-size: 60px;
+    margin-right: 550px;
+    margin-top: 130px;
+    text-shadow: 0px 0px 54px #eee4;
+}
+
+.khea_text {
+    text-align: left;
+    margin-left: 245px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #eee;
+    font-size: 42px;
+}
+
+.tiago {
+    margin-left: 50px;
+    margin-top: 0px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 34px #eee3;
+}
+
+.link_tiago {
+    float: right;
+    text-align: left;
+    text-decoration: none;
+    color: #eee;
+    margin-left: 0px;
+    font-size: 60px;
+    margin-right: 550px;
+    margin-top: 130px;
+    text-shadow: 0px 0px 54px #eee4;
+}
+
+
+.tiago_text {
+    text-align: left;
+    margin-left: 260px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #eee;
+    font-size: 42px;
+}
+
+.seven {
+    margin-left: 50px;
+    margin-top: 0px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 34px #eee3;
+}
+
+.link_seven {
+    float: right;
+    text-align: left;
+    text-decoration: none;
+    color: #eee;
+    margin-left: 0px;
+    font-size: 60px;
+    margin-right: 400px;
+    margin-top: 130px;
+    text-shadow: 0px 0px 54px #eee4;
+}
+
+
+.seven_text {
+    text-align: left;
+    margin-left: 172px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #eee;
+    font-size: 42px;
+}
+
+.milo{
+    margin-left: 50px;
+    margin-top: 0px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 34px #eee3;
+}
+
+.link_milo {
+    float: right;
+    text-align: left;
+    text-decoration: none;
+    color: #eee;
+    margin-left: 0px;
+    font-size: 60px;
+    margin-right: 550px;
+    margin-top: 130px;
+    text-shadow: 0px 0px 54px #eee4;
+}
+
+
+.milo_text {
+    text-align: left;
+    margin-left: 230px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #eee;
+    font-size: 42px;
+}
